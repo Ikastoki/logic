@@ -16,4 +16,5 @@ Los retos son independientes del lenguaje de programación y utilizan diferentes
 
 ## Retos
 
-1. [El cambio](./retos/001-el_cambio/enunciado.md)
+- [Reto 001 — El cambio](./retos/001-el_cambio/enunciado.md)
+- [Reto 002 — La regla que parece funcionar](./retos/002-la_regla_que_parece_funcionar/enunciado.md)
